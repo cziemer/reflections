@@ -7,3 +7,6 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	You can use diff to remind yourself what changes have been made since the last commit. Based on the response, you can determine if the commit should be submitted.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Branches would be helpful when planning for a future add-on/feature that may take time to develop. During development, a bug may have been discovered in the active version and you may need to revert to that branch to make the applicable changes.
+	
