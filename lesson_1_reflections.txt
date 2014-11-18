@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing a diff highlighted the differences between both files to help me quickly identify the bug that was introduced.
+
+How could having easy access to the entire history of a file make you a better
+programmer in the long term?
+
+    By starting this habit early on, it would help to view my process flow or another programmer's process flows and easily identify changes and their outcomes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+    
+    A pro of manually chosing when to apply a commit is that the code is in a ready status at each commit. This mean I can try to run the program at any commit and not worry about compile errors.
+
+    A con would be that I may be so into making changes that I forget to apply commits at critical juntions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    In dites such as Google Docs, the files are likely not directly related to another and tracking versions would only be applicable to the original file. In programming, several files could be updated to change one small feature in the code. If each file had it's own commit file it would be nearly impossible to line them all up when needed.
+
+How can you use the commands git log and git diff to view the history of files?
+    
+    git log provides us with the most recent and previous commits as well as comments entered for each commit ti identify what changes were implemented.
+    git diff will compare two commits and easily show the user what changes were made between the two files.
+
+How might using version control make you more confident to make changes that
+could break something?
+    
+    Utilizing version control will show what changes were made and would allow the programmer to revert back to a more stable version of the application if needed.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    All my future programming projects.
